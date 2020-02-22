@@ -1,6 +1,6 @@
 """
 Program: textanalysis.py
-Author: SamTJ
+Author: Samuel Tijani
 Computes and displays the Flesch Index and the Grade
 Level Equivalent for the readability of a text file.
 """
